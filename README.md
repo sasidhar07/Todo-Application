@@ -4,7 +4,7 @@ This is a simple To-Do application built using ReactJS, Redux, and basic CSS for
 
 # Here is the video of project working
 
-https://github.com/sasidhar07/Todo-Application/assets/126665549/efe9f948-b331-49e1-bc4f-2311d704cd76
+https://github.com/sasidhar07/Todo-Application/assets/126665549/ad17663b-6ce5-452a-b019-8c2f202352fb
 
 ## Setup Instructions
 
