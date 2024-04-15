@@ -1,0 +1,36 @@
+.task {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .task-list {
+    margin-top: 20px;
+  }
+  
+  .deleteIcon{
+    cursor: pointer;
+    color: rgb(51, 96, 243);
+    font-size: 23px;
+
+  }
+
+  .deleteIcon:hover{
+    color: #c82333;
+  }
+  .deleteTodoCard{
+    margin-left: 20px;
+  }
+  .taskActions{
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: auto;
+  }
+  
